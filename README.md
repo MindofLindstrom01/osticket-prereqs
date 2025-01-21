@@ -26,5 +26,5 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <h3>Step 1</h3>
-<img src="https://imgur.com/cEnK7Ro" alt="Step 1 Placeholder">
-<p>Description: Add a description for this image.</p>
+
+![1  search vms](https://github.com/user-attachments/assets/8f347c9d-2c6f-4eb6-bb2d-ccdc6447ae70)

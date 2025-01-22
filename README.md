@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop Connection
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
@@ -17,11 +17,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- MySQL: The database which will contain the data from osTicket.
+- HeidiSQL: The database manager or GUI we will use to interact with the database.
+- PHP: The server-side scripting language used to display the HTML webpages of osTicket.
+- PHP Manager: A feature that will allow us to interact with the scripts through the Management Console.
+- VC Redist: Provides the necessary runtime components for running C++ applications, essential for certain dependencies of PHP and IIS.
+- Rewrite: (URL Rewrite Module for IIS) Allows for the customization of URLs, enabling redirection and URL rewriting for osTicket.
 
 <h2>Installation Steps</h2>
 
@@ -291,12 +292,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h3>Step 44.</h3>
 
-![44  browse 80](https://github.com/user-attachments/assets/e9957a64-34d7-4315-9597-1fa62968ea92)
-
-<p>Go to osticket-vm dropdown, Sites, Default Web Site, osTicket. Click osTicket then click Browse *:80 (http)</p>
-
-<h3>Step 45.</h3>
-
 ![45  results](https://github.com/user-attachments/assets/3c69fb7c-9dfa-4c21-9a1f-cd9a5a0db059)
 
 <p>The osTicket installer web page should now successfully open</p>
@@ -432,6 +427,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![67  success osticket install](https://github.com/user-attachments/assets/2ea6003c-5b5b-4044-ad5a-7ed4546021a1)
 
 <p>Congratulations! You have now successfully installed osTicket on the designated machine.</p>
+<a href="http://localhost/osTicket/scp/login.php">Help Desk Login Page</a>
+<br>
+<a href="http://localhost/osTicket/">End User osTicket URL</a>
 
 
 

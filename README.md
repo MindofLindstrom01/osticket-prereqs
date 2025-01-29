@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This project outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -428,8 +428,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>Congratulations! You have now successfully installed osTicket on the designated machine.</p>
 <a href="http://localhost/osTicket/scp/login.php">Help Desk Login Page</a>
-<br>
+<br/>
 <a href="http://localhost/osTicket/">End User osTicket URL</a>
+<p>
+
+The next part: <a href="https://github.com/MindofLindstrom01/post-install-config">osTicket: Post Installation Configuration</p>
 
 
 

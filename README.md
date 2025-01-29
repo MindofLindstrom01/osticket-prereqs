@@ -429,13 +429,9 @@ You can download the required prerequisite files needed for installation of osTi
 
 ![67  success osticket install](https://github.com/user-attachments/assets/2ea6003c-5b5b-4044-ad5a-7ed4546021a1)
 
+<h2>osTicket Has Been Installed Successfully!</h2>
 <p>Congratulations! You have now successfully installed osTicket on the designated machine.</p>
-<a href="http://localhost/osTicket/scp/login.php">Help Desk Login Page</a>
-<br/>
-<a href="http://localhost/osTicket/">End User osTicket URL</a>
-<p>
-
-The next part: <a href="https://github.com/MindofLindstrom01/post-install-config">osTicket: Post Installation Configuration</p>
+Next part: <a href="https://github.com/MindofLindstrom01/post-install-config">osTicket: Post Installation Configuration</p>
 
 
 

@@ -431,7 +431,7 @@ You can download the required prerequisite files needed for installation of osTi
 
 <h2>osTicket Has Been Installed Successfully!</h2>
 <p>Congratulations! You have now successfully installed osTicket on the designated machine.</p>
-Next part: <a href="https://github.com/MindofLindstrom01/post-install-config">osTicket: Post Installation Configuration</p>
+Next part: <a href="https://github.com/MindofLindstrom01/post-install-config">osTicket: Post Installation Configuration
 
 
 

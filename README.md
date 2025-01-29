@@ -3,7 +3,10 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This project outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h2>Description</h2>
+This project consists of setting up all the prerequisites and installing osTicket from scratch. This was done on a Windows 10 Virtual Machine created in Azure. osTicket is a widely used and trusted open source Help Desk ticketing system.<br />
+<br>
+You can download the required prerequisite files needed <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD">here<a/>
 
 <h2>Environments and Technologies Used</h2>
 
@@ -13,7 +16,7 @@ This project outlines the prerequisites and installation of the open-source help
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>List of Prerequisites</h2>
 

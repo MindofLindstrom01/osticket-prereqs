@@ -293,7 +293,7 @@ You can download the required prerequisite files needed for installation of osTi
 
 <p>Go to osticket-vm dropdown, Sites, Default Web Site, osTicket. Click osTicket then click Browse *:80 (http)</p>
 
-<h3>Step 44.</h3>
+<h3>Step 45.</h3>
 
 ![45  results](https://github.com/user-attachments/assets/3c69fb7c-9dfa-4c21-9a1f-cd9a5a0db059)
 
